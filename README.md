@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <br><br> 
 </div> -->
 
-- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Infogain to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
+- 👨‍💻 I am a frontend developer with a focus on web fundamentals. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 
   
